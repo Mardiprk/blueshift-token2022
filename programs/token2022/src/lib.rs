@@ -1,8 +1,8 @@
 use anchor_lang::prelude::*;
 use anchor_spl::token_interface::{Mint, TokenAccount, TokenInterface};
 
-declare_id!("11111111111111111111111111111111");
-///OG program id = 2KS2vcW2Z6KghbLDDLHYW883GC4z8vupLFSLBrfR9LWE
+declare_id!("2KS2vcW2Z6KghbLDDLHYW883GC4z8vupLFSLBrfR9LWE");
+///OG program id = 
 #[program]
 pub mod token2022 {
     use super::*;
